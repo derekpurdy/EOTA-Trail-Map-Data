@@ -10,6 +10,7 @@ If you happen to capture GPS data of trails related to the EOTA, SBPATV, HSATV, 
 Missing:
 - Rankin Area
   - Small Swamp Trail on North East side
+  - Boat Lake Trail towards Wiarton
 - Wiarton and above
   - all trails
 - Owen Sound
